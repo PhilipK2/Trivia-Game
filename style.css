@@ -1,0 +1,22 @@
+body{
+	background: url(assets/images/rick2.jpg);
+	width: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.jumbotron{
+	background-image: url(assets/images/logo.png); 
+	background-color: black;
+	background-repeat: no-repeat;
+  	background-size: cover;
+  	height: 350px;
+}
+#quest{
+	background-color: black;
+	color: white;
+	border: solid 1px black;
+	border-radius: 8px;
+}
+h1{
+	font-weight: 100;
+}
