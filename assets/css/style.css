@@ -5,11 +5,7 @@ body{
 	background-repeat: no-repeat;
 }
 .jumbotron{
-	background-image: url(../images/logo.png); 
-	background-color: black;
-	background-repeat: no-repeat;
-  	background-size: cover;
-  	height: 350px;
+	background-color: transparent;
 }
 #quest{
 	background-color: black;
